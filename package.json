@@ -1,0 +1,7 @@
+{
+  "name": "token-valley",
+  "version": "0.1.0",
+  "description": "16-bit pixel landscape that visualizes your Claude Code usage",
+  "license": "MIT",
+  "scripts": { "start": "node server.js", "test": "node --test" }
+}
